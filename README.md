@@ -1,12 +1,8 @@
-Here’s a clear outline you can copy (and fill in after repo is pushed) for all required deliverables:
-
-***
-
 ## 1. Code Repo
 
 **GitHub Repository:**  
-_Paste your repo link here after pushing. Example:_  
-`https://github.com/yourusername/livestream-overlay-app`
+  
+`https://github.com/ratnaksh12/livestream-overlay-app`
 
 ***
 
