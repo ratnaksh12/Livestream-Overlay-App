@@ -2,7 +2,7 @@
 
 **GitHub Repository:**  
   
-`https://github.com/ratnaksh12/livestream-overlay-app`
+`https://github.com/ratnaksh12/Livestream-Overlay-App`
 
 ***
 
@@ -80,6 +80,3 @@ _Frontend starts at `http://localhost:3000`._
 **RTSP Note:**  
 If your camera/service only provides RTSP, use a proxy/conversion tool (like ffmpeg or a cloud service) to get an HLS `.m3u8` URL before inputting as the source.
 
-***
-
-**Paste this outline directly into your project as README.md, API.md, etc. before submission. After pushing to GitHub, update the repo link!**
